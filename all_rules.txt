@@ -1,0 +1,327 @@
+eI	face		ai	ay	eigh						
+{	pat			a								
+aI	price		y								
+i	simply		y								
+I	pit			i								
+e	pet			e								
+{	pat			a								
+V	pun			u	ou(s)							
+U	put			uu								
+i:	feed		e-e	ee	ea						
+eI	face		a-e	ai	ay	aigh	eight	ey			
+aI	price		i-e	ie	y(e)	igh	uy				
+OI	boy			oi	oy							
+u:	food		oo								
+@U	oU			floe	o-e	o(e)	oa						
+aU	fowl		ou	ow	ough						
+I@	i:`			near	eer	ere							
+e@	e`			bear	air	are							
+A:	A:`			hard	ar								
+A:	palm		aa	alm							
+Q	A:			pot	o								
+O:	law			au	aw	all	al	aught	ought			
+O:	O:`			order	or	oar							
+ju:	new			u-e	ue	ew	u	eu				
+3:	3`			herd	er								
+i	simply		y	ie(s)							
+@	about		u¹			
+D	that		dh								 
+j	yet			y								 
+p	pen			p								
+b	bag			b								
+t	tea			t								
+d	day			d								
+k	key			c	k	ck	ch					
+g	get			g								
+tS	church		ch								
+dZ	judge		j	g							
+f	fat			f	ph							
+v	van			v								
+T	thing		th								
+D	that		th								
+s	soon		s	ss	c						
+z	zero		z	s							
+S	ship		sh	-tion	-ssio	-cian	-ciou				
+Z	pleasure	-sure	-sion	-sual						
+h	hot			h								
+m	more		m								
+n	nice		n								
+N	ring		ng								
+l	light		l								
+r	right		r								
+j	yet			y								
+w	wet			w(h)								
+
+
+y	j			beginning word, between v	yelo, beyond, lawye	yellow, beyond, law
+y	i			end word unstressed	prity	pretty
+y	aI			otherwise	syn	sign
+c	k			otherwise	can	
+c	s			before /e/,/I/,/aI/,/i:/	center, civil , cid	center, civil, ,cid
+ch	tZ			otherwise	cheek	cheek
+ch	k			words of Greek origin	chimera	chimera
+ch	s			words of French origin	chef	chef
+g	g			otherwise	get	get
+g	dZ			before /e/,/I/,/aI/,/i:/	gem, ginger, gyro,	gem, ginger, gyro,
+ie	aI			otherwise	die	die
+ie	i			<y> as /i/ becomes <ie> b	ferries, ferried	ferries, ferried
+s	s			See ¹		
+s	z			otherwise	please	please
+th	T			otherwise	thing	thing
+th	D			see ¹	
+u	V			otherwise	fun	fun
+u	ju:			See ² (Magic E)	utility	utility
+y	j			beginning of word, beetwe	yam, beyond, lawyer	yam, beyond, lawyer
+y	i			end of word unstressed	fairy	fairy
+y	aI			otherwise	try, trying	try, trying
+
+
+eI	ai			otherwise	saim	same
+eI	ay			end of word, or before vo	way, waying	weigh, weighing
+@U 	oU			o-e	varies	lode	lode
+@U 	oU			o	generally at end of a wor	banjo	banjo
+@U 	oU			oe	otherwise	toe	toe
+@U 	oU			oa	varies	toad	toad
+A:	al(m)		otherwise (non-rhotic)	palm	palm
+A:	aa			rare	faather	faather
+aI	i-e			varies	price	
+aI	ie			usually at end of word	die	die
+aI	y(e)		varies	try, bye	try, bye
+aI	igh			varies	night	night
+aI	uy			rare	buy	buy
+aU	ou(gh)		otherwise (ou),	loud , bough	loud, bough
+aU	ow			end of word, before vowel	cow, bowing, town	cow, bowing, town
+O:	au(gh)		otherwise	plaudit	plaudit
+O:	aw			end of word, before noun,	saw, sawing, lawn,	saw, sawing, lawyer
+O:	al(l)		before <l> See B3	all, always	all, always
+O:	ought		rare	bought	bought
+dZ	j			otherwise	jam	jam
+dZ	g			before /e/,/I/,/aI/ /i:/	gem, ginger, gyro,	gem, ginger, gyro,
+e@	air			varies	stair	stair
+e@	are			varies	bare	bare
+eI	a-e			varies	face	face
+eI	ai(gh)		varies	laid, straight	laid, straight
+eI	ay			usually at end of word or	lay, laying	lay, laying
+eI	ei(gh)		rare	feint, eight	feint, eight
+eI	ey			rare	they, whey	they, whey
+f	f			otherwise	few	few
+f	ph			words of Greek origin	pharmacy	pharmacy
+i	y			otherwise	ferry	ferry
+i	ie			<y> as /i/ becomes <ie> b	ferries, ferried	ferries, ferried
+i:	ee			varies	seen	seen
+i:	e-e			varies	scene	scene
+i:	ea			varies	bean	bean
+ju:	u-e			varies	fuse	fuse
+ju:	ue			varies	due	due
+ju:	ew			usually at end of word or	mew, mewing	mew, mewing
+ju:	u			See Section I - Magic E	utility	utioity
+ju:	eu			words of Greek origin	euphonium	euphonium
+O:O:`			or	otherwise	or	or
+O:O:`			oar	rare	board	board
+OI	oi			otherwise	boil	boil
+OI	oy			end of word or before vow	boy	boy
+s	s   		See ¹
+s   ss   		See ¹
+s   c    		before /e/,/I/,/aI/,/i:/   center       center
+s	ps   		words of Greek origin	  psychic	   psychic
+s	x	 	    words of Greek origin	  xylophone    xylophone 
+z	z    	 	otherwise			  zero	         zero
+z	s	 	    See ¹	
+u	u	     	otherwise                  fun          fun
+u	ous  	 	suffix   only              famous       famous
+
+
+Double & Multi-Syllable words  - syllable stressed
+	(vi)  ar  - the syllable usually keeps its sound as in (i),  (caring, staring etc). TSR respells when there might be confusion as to pronunciation between two similar words (eg <stairing> (looking at) and <staring> (featuring  in));   
+	(vii) er  - the syllable keeps the sound in (ii) (<serious>);
+	(viii) ir -the syllable keeps the sound in (iii)  (<firing>,  <wiry>);
+	(ix)  or  - the syllable usually keeps its sound in (iv)  (<boring>);
+	(x)   ur  - the syllable usually keeps its sound in (v) (fury, <jury>).
+Double & Multi-Syllable Words  - syllable unstressed
+    (xi)vowels are usually short or form a version of the schwa (eg arachnid, erase, restoration, tamper etc). EXCEPTIONS: direct, irenic, which TSR does not double.
+ 
+Sub-Groups
+These are groups of graphemes that do not correspond to TSR's normal rules, but can generally be relied on to represent only one vowel sound. These are additional to the graphemes listed at Tables A1 and A2 and the Rules in B3.
+	·      The <-alf> combination in <calf> and <half>.
+	·      The <-alk> combination  in words such as <balk>, <chalk>, <stalk>,  <talk>, <walk>. 
+	·      The <-alt> combination in words such as <halt>, <malt>, <salt>.     (<fault respelled <falt>).
+	·      The <-ange< combination in words such as <angel>, <change>, <danger>.   Exception: <flange>.  
+	·      The  <-aste> combination at the end of words such as  <baste>, haste,  paste, taste, waste.
+	·      The <-ign> combination at the end of words and stressed as in <sign>, <malign>, benign> - but not at the beginning of words (eg <ignorant> or before the suffix <-ant> (eg <significant>). 
+	·      The <-ild> combination in single syllable words such as <mild>, <child>, <wild>, etc.  
+	·      The <-ind combination single syllable words such as <bind>, <find>, <wind> (verb). Respelled: <winnd> (noun).
+	·      The <old> combination in words such as <old>, <bold>, <cold>.  
+	·      The <-olk> combination is <folk> and <yolk>.
+	·      The <olt> combination in words such as <bolt>, <colt>, <dolt>.
+	·      The <ould> combination in <could>, <should>, & <would>. The sound /U/ in all other words is represented by uu (e.g. <puuding>.    
+	·      The <other> group in words such as <brother>, <mother>. Stress is on the <o< and must be followed by <-ther<. Exception: <bother>.
+	·      The <war-> combination in words such as <war>, <ward>, <warn>.      
+	·      The <wor->combination in words such as <worship> <word>. Exception: worn.
+The usual affixes do not change the spelling (e.g. <brothers>, <talks>, <folding>, <malignant>).
+
+
+Other Miscellaneous:  
+	(l)   doubling of a consonant at the end of a word is permitted with words ending in <f>,  and <l>,  (eg <stuff>, <fill>), although this does not in any way affect the pronunciation. 
+	(ii) <gu> other than at the end of a word represents the sound /gw/ as in TS (<language>).	 
+	(iii) <qu> represent the sound /kw/ as in TS (eg <queen>). 
+	(iv) A diaresis (or if needs be a hyphen) is optionally used to distinguish two sounds in a digraph (eg <reäl>, <diägram>, <biömetric >. This also lengthens the first vowel. The diaresis is only used when the digraph would otherwise represent the wrong sound(s). Thus: words such as <bastion> don't' need any diaresis because in TSR <io> does not represent a single phoneme and because the <i> in this instance is clearly short. On the other hand <ea> would represent /i:/ without the diaresis and <bio> would be pronounced /bIQ/.   
+	(v) <sc>  follows the rules for the pronunciation of <c> (eg <scam>,  <scene>, scythe etc).	 
+	(vi) <sch> represents /sk/ and never /S/ eg <school> Exception: words of German origin  - (e.g. <schmaltz> which can be treated as a loan word). 
+	(vii)TSR respells words such as 'dystopia' as <distopia> to avoid confusion of pronunciation. <y> normally represents /aI/ except at the beginning and ending of words.
+ 
+ 
+
+
+	[¹]
+		•-<tion>, <-ssion> <-cious>, <cean>, <cian>, <tient> contain the /S@/ sound: <nation>, <mission>, <specious>, <ocean>, <musician>, <patient>. 
+		•<-sion> contains the /Z@/ sound in <lesion>, <evasion>.
+		•<-sure> contains the /Z/ sound in <mesure> ('measure')
+		•<-sual> contains the /Z/ sound in <casual>. 
+		•<th> normally represents /T/. It represents /D/ in the 'other' group:<mother> etc; at the end of a word when stressed and followed by <e> or <er> <bathe>, <lather> etc;  also in some common one syllable words:  <than>, <that>, <the>, <then>, <there>, <these>, <this>, <those>, <with>. 
+		•<z> always represents/z/. Where <s> does not represent /s/,that grapheme represents /z/.
+		•<s> represents /s/ at the beginning of a word; before /k/,/f/,/p/,/t/; when  preceded by a prefix or is part of a composite word, (forsake); and in <dis-> (dismay) or <mis> (mistake>). Otherwise /s/ must be represented by <ss> (<hiss>) or by <c> - <cede>. Note also : <yes>.
+		•<g> represents /dZ/ before /e/,/i/,/i:/,/aI/ If it represents /g/ before these sounds, another letter must be added, eg <guest>, <guild>.
+		•<ch> normally represents <tS>. It representa /k/ in words of Greek origin, often found  in the combinations /klQ/ /krI/ /krQ/ (eg <chronometer>).
+		•<ch> can also represent /S/ in words of French origin. Such words may be treated as loan words and italicised (eg chef, chandelier).
+		•<ie>, <ei> no longer represent /i:/ they are replaced by <ee> (eg <beleev>).
+		•<ow> no longer repsents /@U/ and is reserved for /aU/,  (eg bow).
+		•/U/ is represented by the new grapheme <uu> except for <would>, <should> and <could>.
+		•<ough> can only represent the sound in 'bough', 'slough'. Words with this combination that in TS are pronounced /Qf/ are respelled (eg <coff>). 'Ough' words that are pronounced /Vf/ are respelled <uff> (eg enuff>); 'dough' is respelled <doh>.
+		•<ought> only represents the sound in 'bought' and 'sought'. 
+		•Redundant letters are generally omitted. An apostrophe can be inserted to distinguish meaning when this change would otherwise produce a homographic homophone (eg <'our> (time) and <our> (possessive adjective.)
+		•/O:l/ represented by <all>, or by <al> at beginning of words where sense is all-inclusive(<almighty>) Cf <algebra>.
+		•Redundant <e> at end of word is usually omitted, but is retained in <-ed> (past tense) and <-es> (plural)(eg <giv>, but <gripped>, <fuses>).
+		•In addition to the correspondences shown in A1 and A2,TSR recognises a number of sub-groups - letter combinations that fall outside those listed in the  tables but which can usually be relied upon to represent certain phonemes. For further details see Section I.
+		•unaccented vowels (schwa) – In TSR generally the spelling remains unchanged from TS  (eg <enter>, <campus>, <altar> – although in some cases a redundant letter may be omitted (<carrige>);
+		•y can represent the three distinct sounds /j/, /aI/ and /i/.The first sound is found at the beginning of a word <yak>, between two vowels, <beyond> and in the <-yer> suffix <lawyer>;  the second is found when stressed anywhere else -<why>, <cyanide>;, and the third at the end of a word when unstressed <fairy>. When representing /i/ <y> turns to <ie> before <s> and <d> <ferries> <ferried>.
+		•<ar>,<er>,<or> - doubling <r> shortens the vowel, <harry>, <herring>, <horrid>. 
+		•This section is continued in Section I. which includes the Magic E and doubling rules.
+		
+	[²]
+			MAIN PRINCIPLES
+	 
+		·	A single vowel, followed by a single consonant and then <e>, is   
+			  lengthened: can / cane, pan / pane.
+		·            In words of more than one syllable, single stressed vowels are  
+			  lengthened if followed by a single consonant and one or more vowels:  
+			  pony, fading, tiny, ocean.
+		·	Doubled consonants shorten vowels that would otherwise be lengthened 
+			  under the preceding rule: harry, herring, horrid, hammer, slimming.
+	 
+	+Subsidiary Rules connected with Magic E and Doubling
+	 
+	(a) Some combinations of consonants act like a single consonant for the purposes of signifying a magic e: eg any single consonant followed by -le (able, bible, rifle, idle)
+	(b) The suffix <-sure> does not lengthen the preceding vowel (eg <plesure, <mesure>).
+	(c)  The suffix <-sion> always lengthens the preceding vowel provided it is not <i> Thus <lesion> but <rescision>.
+	(d) <i> is not lengthened in the following combinations: <-ition>, <ission>, <-ision>, <-ician>, <icious> . It is also kept short in a combination <i> single consonant <i>, (eg <rendition>, <timid>), but is long in such words where the main stem has a long vowel (eg <stride, striding>).
+	(e)The letter x does not lengthen the preceding stressed vowel (eg <oxen>, <execute>).
+	(f) The letter u generally obeys the Magic E rule but additionally:
+		(i)  it is almost invariably long (i.e. representing /ju:/)at the beginning of a word <unite>: exceptions: words beginning in <un> with a negative meaning (<uninspiring>) or in <up> (<upend>), or when preceding two consonants (<ugly>);
+		(ii)  it is usually long when stressed and preceding another vowel, (eg <fuel>, <dual>); 
+		(iii) it is usually long when unstressed following a vowel and consonant(s), eg <monument>, <natural>.
+	(g) the letter combinations er, ir and ur (short or long)
+ 
+	Single syllable words
+		(i)	ar  - a final e usually turns the sound from ar (as in bar) to that in <bare>, <stare>, <care> etc.;
+		(ii)	er obeys the Magic E rule, eg mere, here;
+		(iii)	ir obeys the Magic E rule eg dire, ire, mire, tire; 
+		(iv)	or  -an added e does not generally affect the or sound:  
+					pore, snore;  TSR usually drops the e as redundant (eg  
+					snor);    
+		(v)	ur  - obeys the Magic E  rule: cure, endure, lure etc.
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+REVIEW:
+	 
+	Table C. Sign Words
+		Apart from Proper Nouns, these are largely restricted to common words in particular categories (numbers, days of the week, months, seasons etc).They total  around 60 (including combinations of the sign word) so should be relatively easy to learn. In addition, B3 contains some exceptions to the rules laid down in that table, and the sub-groups list set out above also contains a few exceptions (eg <bother> in the 'other' category). 
+
+
+	Table E2. Homophones
+		Unlike Dr Johnson, the author is not unduly concerned about providing heterographs for homophones, as he believes that usually context makes the meaning clear. However, given the minimum change principle, and the fact that homophones are raisied so frequently by opponents of reform, TSR provides  different spellings for most of the TS common homophones. The words listed in Table E.2 are drawn  from words that are to be found in the list of 1,000 common words at https://www.wordfrequency.info/. They are also selected from   https://www.sightwordsgame.com/spelling/homophones/.  Generally, TSR has different spellings for most of the TS common homophones. In some cases, the spelling of one of the alternatives is revised to bring it within TSR rules (eg <grait> for <great>). Although Section E instructs the author  not to list signwords in that Table, TSR (outside that list) does provide some heterographic homophones where at least one of the alternatives is a retained sign word (eg <to> and <two>).
+	 
+	 
+	Table F2. Accents
+		TSR adopts the following strategy to permit different accents to be interpreted through common graphemes. 
+	 
+	 
+	Proper Nouns - For the moment, any word which starts with a capital letter (other than marking the start of a sentence) can be respelled at a later stage. The decision is left to the individual(s) concerned
+
+	Current Differences between US/Canadian and Commonwealth spellings
+	TSR generally prefers US/Can spelling. Thus <-or>  over < -our> (labor), <-ize> over < -ise> (theorize) and <-yze> over < -yse>, (analyze), <-er> over <-re> (center), <-og> over <-ogue> (catalogue). BUT
+	In some cases, both US/Can and Commonwealth spellings will be changed as a result of TSR's rules. This is partricularly the case with doubling. Thus: <parralel> ('parallel'), <cullor> ('color').
+	 
+	Stress - TSR makes no special provision for stress.  Accordingly, when the only difference between US/Can and other pronunciations is in the syllable to be stressed, TSR does not mark this divergence. Generally in such cases, TS spelling is preserved. People will pronounce the word with the stress that is familiar to them (eg <adult>, <opportune>, <thanksgiving>).
+	 
+	Loan words - Where the original (foreign) spelling of a loan word is retained, TSR's approach is not to change this but to italicise it showing that TSR conventions do not apply. It will remain open to English speakers to interpret these spellings in accordance with their own tradition (eg chargé d'affaires, chaise longue etc).
+
+	Schwa (unstressed syllables) - A large number of divergent pronunciations actually arise from the fact that the unstressed syllable is pronounced only slightly differently, eg <surplus>, where British tend to treat the second syllable as schwa (/@/) and Americans pronounce the unstressed syllable  as /V/. In such cases, TSR sees no need to change the TS spelling, leaving different dialects to retain their slightly different pronunciations.
+	 
+	Predictable variance - Longman's list of English phonemes shows the following consistent variances as between British and American pronunciation:
+	 
+	 
+	'lot', 'odd', 'wash'   British /Q/  American: /A/
+	TSR maintains the common grapheme <o> for these sounds. The elision of the two sounds is not complete in American / Canadian pronunciation. Also a single grapheme would represent a major change from TS and would be difficult to gain acceptance throughout the ESW.
+	'goat', 'show', 'no'  British: /@U/ American: /oU)/ 
+	The difference in pronunciation as between British and American is too slight to warrant different graphemes: <o(e)> is used for both.
+	'square', ' fair', 'various', nurse', 'stir' 'near', 'here'
+	These are examples of rhotic divergence. Some English speakers suppress the /r/ in words such as 'farm' or 'heather'; most do not (eg Scottish, West Country (UK), American). TSR keeps the <r> in the knowledge that rhotic and non-rhotic speakers will interpret the grapheme in accordance with their own traditions.
+	The 'bath' words
+	This covers combinations of <a> with <-sc>, <-sp>, <-nt>, <-ft>,<-ns>,<-st> etc. also sometimes <aff> and <ass>. RP pronounces the <a> in these circumstances as /A:/. Other accents, including US/Can and many British ones, pronounce the <a> as /{/ - thus 'clasp', 'flask', 'aunt', 'daft', 'chance', 'bath, and 'staff'. TSR uses <a> in these instances in the knowledge that RP speakers will continue to interpret <a> as /A:/ and most others as /{/. Generally TS <a> on its own is treated by TSR as representing /{/.
+	Unpredictable variance - 'yod' dropping
+	This refers to words such as 'duty', 'news', 'tune' etc. US / Can pronounciation  of <u> in some cases comes out as /u:/. Other traditions, including British, insert a /j/ before /u:/. TSR does not allocate different spellings to these words as this would greatly increase the number of variant spellings - there are about 50 such words in frequent usage not including compounds. Equally, requiring non-Americans to adopt a spelling based on a pronunciation so distinctively different from their own might hinder acceptance of the scheme outside the USA.
+	TSR's  solution is to use the grapheme <u'> in these instances. This will alert US / Can speakers to pronounce the vowel as /u:/ and others to pronounce it as /ju:/. Thus <du'ty>, <nu'>, <su'>, and <tu'n> etc.
+	 
+	Unpredictable variance - Miscellaneous
+	There remain some words where American and other pronunciations differ in an unpredictable manner. TSR looks at these on an individual basis. It usually   adopts the most common pronunciation in the English Speaking World (ESW). However, it also avoids changing the TS spelling wherever possible. Example: <exit>. The pronunciation varies both sides of the Atlantic between /eksIt/ and /egzIt/. TSR keeps the TS spelling. People will carry on pronouncing it as they are accustomed.  
+	 
+	Different spellings permitted
+	TSR does permit a few divergent spellings as between US/Can and other usage for a small number of words where the difference in pronunciation each side of the Atlantic is too great permit a common grapheme. Examples in common use: <tomato> <vase>, <buoy>. TSR provides the following alternatives (US/Can - Commonwealth): <tomato>,/tomaato/, <vase>/ <vaaz>. <(N)either> retains its original spelling: people  will pronounce it differently, depending on their dialect and preference.
+	 
+	Conclusion
+	 
+	It is hoped that the above strategy will make it possible for common graphemes to apply in most cases to words that are pronounced differently in various parts of the ESW.
+	 
+	More generally, TSR is an attempt at conservative reform. If it produced an English orthography as phonemnic as French, then in the author's opinion that would be a modest step forward, which would have positive benefits in terms of access to literacy. It would at least enable the student to be able to predict the pronunciation from the spelling, and to reduce seriously the number of wholly irregular words that have to be memorised. Change is kept to a minimum in the interests of overcoming the instinctive opposition to any alteration to exsiting spelling. TSR does not look very different from TS, but the changes that it makes are all designed to create greater predictability.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
